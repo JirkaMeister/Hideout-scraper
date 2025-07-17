@@ -10,43 +10,43 @@
             "id": "dollars",
             "name": "Dollars",
             "number": "25,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "gas_mask_air_filter",
             "name": "Gas mask air filter",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "military_power_filter",
             "name": "Military power filter",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "military_corrugated_tube",
             "name": "Military corrugated tube",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "skier",
             "name": "Skier",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -63,37 +63,37 @@
             "id": "t-shaped_plug",
             "name": "T-Shaped plug",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "vpx_flash_storage_module",
             "name": "VPX Flash Storage Module",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "power_cord",
             "name": "Power cord",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "power_supply_unit",
             "name": "Power supply unit",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "cpu_fan",
             "name": "CPU fan",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "intelligence_center",
             "name": "Intelligence Center",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -104,37 +104,37 @@
             "id": "cpu_fan",
             "name": "CPU fan",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "power_supply_unit",
             "name": "Power supply unit",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "printed_circuit_board",
             "name": "Printed circuit board",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "military_power_filter",
             "name": "Military power filter",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -145,43 +145,43 @@
             "id": "cpu_fan",
             "name": "CPU fan",
             "number": "25 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "silicone_tube",
             "name": "Silicone tube",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pressure_gauge",
             "name": "Pressure gauge",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "6-sten-140-m_military_battery",
             "name": "6-STEN-140-M military battery",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "solar_power",
             "name": "Solar Power",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -198,55 +198,55 @@
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pressure_gauge",
             "name": "Pressure gauge",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "radiator_helix",
             "name": "Radiator helix",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "silicone_tube",
             "name": "Silicone tube",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pipe_grip_wrench",
             "name": "Pipe grip wrench",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "analog_thermometer",
             "name": "Analog thermometer",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "nutrition_unit",
             "name": "Nutrition Unit",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -263,43 +263,43 @@
             "id": "paid_antiroach_spray",
             "name": "PAID AntiRoach spray",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "light_bulb",
             "name": "Light bulb",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "can_of_white_salt",
             "name": "Can of white salt",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "survl_survivor_lighter",
             "name": "SurvL Survivor Lighter",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "construction_measuring_tape",
             "name": "Construction measuring tape",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "wi-fi_camera",
             "name": "WI-FI Camera",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "security",
             "name": "Security",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -316,13 +316,13 @@
             "id": "medstation",
             "name": "Medstation",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -333,7 +333,7 @@
             "id": "fleece_fabric",
             "name": "Fleece fabric",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -344,7 +344,7 @@
             "id": "fleece_fabric",
             "name": "Fleece fabric",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -355,13 +355,13 @@
             "id": "fierce_blow_sledgehammer",
             "name": "Fierce Blow sledgehammer",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -372,19 +372,19 @@
             "id": "metal_cutting_scissors",
             "name": "Metal cutting scissors",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "toolset",
             "name": "Toolset",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -395,49 +395,49 @@
             "id": "corrugated_hose",
             "name": "Corrugated hose",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "toolset",
             "name": "Toolset",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "light_bulb",
             "name": "Light bulb",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       }
@@ -454,67 +454,67 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "300,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "sewing_kit",
             "name": "Sewing kit",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "awl",
             "name": "Awl",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "leatherman_multitool",
             "name": "Leatherman Multitool",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bolts",
             "name": "Bolts",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "8 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ragman",
             "name": "Ragman",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "defective_wall",
             "name": "Defective wall",
             "number": "Level 6 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "illumination",
             "name": "Illumination",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -525,61 +525,61 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "800,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "shustrilo_sealing_foam",
             "name": "Shustrilo sealing foam",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
             "number": "8 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "12 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "aramid_fiber_fabric",
             "name": "Aramid fiber fabric",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "wrench",
             "name": "Wrench",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ragman",
             "name": "Ragman",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "hall_of_fame",
             "name": "Hall of Fame",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -590,61 +590,61 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "1,200,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "body_armor_repair_kit",
             "name": "Body armor repair kit",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "cordura_polyamide_fabric",
             "name": "Cordura polyamide fabric",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ratchet_wrench",
             "name": "Ratchet wrench",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ragman",
             "name": "Ragman",
             "number": " LL4",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "hall_of_fame",
             "name": "Hall of Fame",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -661,19 +661,19 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "100,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "spark_plug",
             "name": "Spark plug",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "security",
             "name": "Security",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -684,37 +684,37 @@
             "id": "bulbex_cable_cutter",
             "name": "Bulbex cable cutter",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "security",
             "name": "Security",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -725,49 +725,49 @@
             "id": "power_supply_unit",
             "name": "Power supply unit",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
             "number": "6 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "spark_plug",
             "name": "Spark plug",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "7 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "security",
             "name": "Security",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -784,43 +784,43 @@
             "id": "insulating_tape",
             "name": "Insulating tape",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "light_bulb",
             "name": "Light bulb",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "cat_figurine",
             "name": "Cat figurine",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "round_pliers",
             "name": "Round pliers",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           }
         ]
       },
@@ -831,55 +831,55 @@
             "id": "tech_manual",
             "name": "Tech manual",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "toolset",
             "name": "Toolset",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "golden_rooster_figurine",
             "name": "Golden rooster figurine",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
             "number": "6 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "tube_of_poxeram_cold_welding",
             "name": "Tube of Poxeram cold welding",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -890,49 +890,49 @@
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bronze_lion_figurine",
             "name": "Bronze lion figurine",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "t-shaped_plug",
             "name": "T-Shaped plug",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "power_cord",
             "name": "Power cord",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       }
@@ -949,13 +949,13 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "25,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "classic_matches",
             "name": "Classic matches",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -966,37 +966,37 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "50,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "dry_fuel",
             "name": "Dry fuel",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "hunting_matches",
             "name": "Hunting matches",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "crickent_lighter",
             "name": "Crickent lighter",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "endurance",
             "name": "Endurance",
             "number": " Level 1",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1007,43 +1007,43 @@
             "id": "radiator_helix",
             "name": "Radiator helix",
             "number": "8 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "8 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "military_corrugated_tube",
             "name": "Military corrugated tube",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ragman",
             "name": "Ragman",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1060,61 +1060,61 @@
             "id": "toolset",
             "name": "Toolset",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_cutting_scissors",
             "name": "Metal cutting scissors",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bolts",
             "name": "Bolts",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "wd-40_(100ml)",
             "name": "WD-40 (100ml)",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "insulating_tape",
             "name": "Insulating tape",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "defective_wall",
             "name": "Defective wall",
             "number": "Level 6 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "illumination",
             "name": "Illumination",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1131,13 +1131,13 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "10,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "crickent_lighter",
             "name": "Crickent lighter",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -1148,19 +1148,19 @@
             "id": "light_bulb",
             "name": "Light bulb",
             "number": "14 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1171,43 +1171,43 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "50,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "capacitors",
             "name": "Capacitors",
             "number": "7 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "12 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "6 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1224,31 +1224,31 @@
             "id": "factory_plan_map",
             "name": "Factory plan map",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "intelligence_folder",
             "name": "Intelligence folder",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "topographic_survey_map",
             "name": "Topographic survey map",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "security",
             "name": "Security",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1259,55 +1259,55 @@
             "id": "intelligence_folder",
             "name": "Intelligence folder",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "secure_flash_drive",
             "name": "Secure Flash drive",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "power_cord",
             "name": "Power cord",
             "number": "7 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "damaged_hard_drive",
             "name": "Damaged hard drive",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "attention",
             "name": "Attention",
             "number": " Level 3",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "security",
             "name": "Security",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "medstation",
             "name": "Medstation",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "nutrition_unit",
             "name": "Nutrition Unit",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1318,55 +1318,55 @@
             "id": "military_cable",
             "name": "Military cable",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "military_cofdm_wireless_signal_transmitter",
             "name": "Military COFDM Wireless Signal Transmitter",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "far-forward_gps_signal_amplifier_unit",
             "name": "Far-forward GPS Signal Amplifier Unit",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "vpx_flash_storage_module",
             "name": "VPX Flash Storage Module",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "military_flash_drive",
             "name": "Military flash drive",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "secure_magnetic_tape_cassette",
             "name": "Secure magnetic tape cassette",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "prapor",
             "name": "Prapor",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1383,31 +1383,31 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "2,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "toilet_paper",
             "name": "Toilet paper",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "toothpaste",
             "name": "Toothpaste",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "soap",
             "name": "Soap",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "awl",
             "name": "Awl",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -1418,43 +1418,43 @@
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "sewing_kit",
             "name": "Sewing kit",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1465,37 +1465,37 @@
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
             "number": "6 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pressure_gauge",
             "name": "Pressure gauge",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "toolset",
             "name": "Toolset",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1512,55 +1512,55 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "400,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bakeezy_cook_book",
             "name": "BakeEzy cook book",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "slim_diary",
             "name": "Slim diary",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "diary",
             "name": "Diary",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "tech_manual",
             "name": "Tech manual",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "chainlet",
             "name": "Chainlet",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "horse_figurine",
             "name": "Horse figurine",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "hideout_management",
             "name": "Hideout Management",
             "number": " Level 5",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "rest_space",
             "name": "Rest Space",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1577,31 +1577,31 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "50,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "disposable_syringe",
             "name": "Disposable syringe",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pile_of_meds",
             "name": "Pile of meds",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "aseptic_bandage",
             "name": "Aseptic bandage",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bottle_of_ololo_multivitamins",
             "name": "Bottle of OLOLO Multivitamins",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -1612,49 +1612,49 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "150,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bottle_of_saline_solution",
             "name": "Bottle of saline solution",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "medical_bloodset",
             "name": "Medical bloodset",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "esmarch_tourniquet",
             "name": "Esmarch tourniquet",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "medical_tools",
             "name": "Medical tools",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "therapist",
             "name": "Therapist",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "health",
             "name": "Health",
             "number": " Level 2",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1665,55 +1665,55 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "500,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ophthalmoscope",
             "name": "Ophthalmoscope",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bottle_of_saline_solution",
             "name": "Bottle of saline solution",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ledx_skin_transilluminator",
             "name": "LEDX Skin Transilluminator",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "therapist",
             "name": "Therapist",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "skier",
             "name": "Skier",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "vitality",
             "name": "Vitality",
             "number": " Level 3",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "lavatory",
             "name": "Lavatory",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1730,31 +1730,31 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "25,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "can_of_white_salt",
             "name": "Can of white salt",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "power_cord",
             "name": "Power cord",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1765,31 +1765,31 @@
             "id": "wrench",
             "name": "Wrench",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "alkaline_cleaner_for_heat_exchangers",
             "name": "Alkaline cleaner for heat exchangers",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "lavatory",
             "name": "Lavatory",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1800,49 +1800,49 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "125,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "can_of_majaica_coffee_beans",
             "name": "Can of Majaica coffee beans",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_sodium_bicarbonate",
             "name": "Pack of sodium bicarbonate",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "smoked_chimney_drain_cleaner",
             "name": "Smoked Chimney drain cleaner",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metabolism",
             "name": "Metabolism",
             "number": " Level 3",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "lavatory",
             "name": "Lavatory",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "stash",
             "name": "Stash",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1859,25 +1859,25 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "10,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "classic_matches",
             "name": "Classic matches",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1888,43 +1888,43 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "35,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "dvd_drive",
             "name": "DVD drive",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "magnet",
             "name": "Magnet",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ragman",
             "name": "Ragman",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "heating",
             "name": "Heating",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -1935,43 +1935,43 @@
             "id": "greenbat_lithium_battery",
             "name": "GreenBat lithium battery",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "power_cord",
             "name": "Power cord",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "capacitors",
             "name": "Capacitors",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "7 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "skier",
             "name": "Skier",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "heating",
             "name": "Heating",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -1988,49 +1988,49 @@
             "id": "golden_rooster_figurine",
             "name": "Golden rooster figurine",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "lucky_scav_junk_box",
             "name": "Lucky Scav Junk box",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bottle_of_fierce_hatchling_moonshine",
             "name": "Bottle of Fierce Hatchling moonshine",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "roler_submariner_gold_wrist_watch",
             "name": "Roler Submariner gold wrist watch",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "golden_neck_chain",
             "name": "Golden neck chain",
             "number": "8 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "gold_skull_ring",
             "name": "Gold skull ring",
             "number": "6 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bronze_lion_figurine",
             "name": "Bronze lion figurine",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "intelligence_center",
             "name": "Intelligence Center",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -2047,13 +2047,13 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "20,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "construction_measuring_tape",
             "name": "Construction measuring tape",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -2064,37 +2064,37 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "45,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "wd-40_(100ml)",
             "name": "WD-40 (100ml)",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "tp-200_tnt_brick",
             "name": "TP-200 TNT brick",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "endurance",
             "name": "Endurance",
             "number": " Level 2",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "illumination",
             "name": "Illumination",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2105,37 +2105,37 @@
             "id": "nixxor_lens",
             "name": "NIXXOR lens",
             "number": "8 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "working_lcd",
             "name": "Working LCD",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ssd_drive",
             "name": "SSD drive",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "illumination",
             "name": "Illumination",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -2152,31 +2152,31 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "20,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bolts",
             "name": "Bolts",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "illumination",
             "name": "Illumination",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2187,73 +2187,73 @@
             "id": "electric_motor",
             "name": "Electric motor",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "construction_measuring_tape",
             "name": "Construction measuring tape",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "tube_of_poxeram_cold_welding",
             "name": "Tube of Poxeram cold welding",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "toolset",
             "name": "Toolset",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "wi-fi_camera",
             "name": "WI-FI Camera",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "6 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "illumination",
             "name": "Illumination",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2264,55 +2264,55 @@
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "printed_circuit_board",
             "name": "Printed circuit board",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "capacitors",
             "name": "Capacitors",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "power_cord",
             "name": "Power cord",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "leatherman_multitool",
             "name": "Leatherman Multitool",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "tech_manual",
             "name": "Tech manual",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       }
@@ -2329,55 +2329,55 @@
             "id": "euros",
             "name": "Euros",
             "number": "25,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "phased_array_element",
             "name": "Phased array element",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "advanced_current_converter",
             "name": "Advanced current converter",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "working_lcd",
             "name": "Working LCD",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "military_cable",
             "name": "Military cable",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "military_power_filter",
             "name": "Military power filter",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "peacekeeper",
             "name": "Peacekeeper",
             "number": " LL4",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -2398,37 +2398,37 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "2,500,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "wd-40_(100ml)",
             "name": "WD-40 (100ml)",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "hand_drill",
             "name": "Hand drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2439,49 +2439,49 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "8,500,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
             "number": "7 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "prapor",
             "name": "Prapor",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "ragman",
             "name": "Ragman",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "vents",
             "name": "Vents",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "heating",
             "name": "Heating",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2492,67 +2492,67 @@
             "id": "euros",
             "name": "Euros",
             "number": "200,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bolts",
             "name": "Bolts",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "shustrilo_sealing_foam",
             "name": "Shustrilo sealing foam",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ratchet_wrench",
             "name": "Ratchet wrench",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "peacekeeper",
             "name": "Peacekeeper",
             "number": " LL4",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "ragman",
             "name": "Ragman",
             "number": " LL4",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "heating",
             "name": "Heating",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "intelligence_center",
             "name": "Intelligence Center",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -2569,7 +2569,7 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "25,000 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -2580,25 +2580,25 @@
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "cpu_fan",
             "name": "CPU fan",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "car_battery",
             "name": "Car battery",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -2609,43 +2609,43 @@
             "id": "printed_circuit_board",
             "name": "Printed circuit board",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "14 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "car_battery",
             "name": "Car battery",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "strength",
             "name": "Strength",
             "number": " Level 2",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -2662,31 +2662,31 @@
             "id": "duct_tape",
             "name": "Duct tape",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bolts",
             "name": "Bolts",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
             "number": "4 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "security",
             "name": "Security",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2697,43 +2697,43 @@
             "id": "toolset",
             "name": "Toolset",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
             "number": "6 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "jaeger",
             "name": "Jaeger",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "attention",
             "name": "Attention",
             "number": " Level 3",
-            "type": "skills"
+            "type": "skill"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2744,43 +2744,43 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "20,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "ratchet_wrench",
             "name": "Ratchet wrench",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "shustrilo_sealing_foam",
             "name": "Shustrilo sealing foam",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "jaeger",
             "name": "Jaeger",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "heating",
             "name": "Heating",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -2797,61 +2797,61 @@
             "id": "hand_drill",
             "name": "Hand drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_cutting_scissors",
             "name": "Metal cutting scissors",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bolts",
             "name": "Bolts",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "insulating_tape",
             "name": "Insulating tape",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "illumination",
             "name": "Illumination",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "stash",
             "name": "Stash",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2862,79 +2862,79 @@
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "tube_of_poxeram_cold_welding",
             "name": "Tube of Poxeram cold welding",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "weapon_parts",
             "name": "Weapon parts",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "shooting_range",
             "name": "Shooting Range",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "stash",
             "name": "Stash",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -2945,67 +2945,67 @@
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
             "number": "10 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
             "number": "5 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
             "number": "15 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "shustrilo_sealing_foam",
             "name": "Shustrilo sealing foam",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "tech_manual",
             "name": "Tech manual",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "#fireklean_gun_lube",
             "name": "#FireKlean gun lube",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL4",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "shooting_range",
             "name": "Shooting Range",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "workbench",
             "name": "Workbench",
             "number": "Level 3 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -3022,19 +3022,19 @@
             "id": "screw_nuts",
             "name": "Screw nuts",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "bolts",
             "name": "Bolts",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "leatherman_multitool",
             "name": "Leatherman Multitool",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           }
         ]
       },
@@ -3045,43 +3045,43 @@
             "id": "bolts",
             "name": "Bolts",
             "number": "6 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "toolset",
             "name": "Toolset",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "weapon_parts",
             "name": "Weapon parts",
             "number": "3 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL2",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "illumination",
             "name": "Illumination",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       },
@@ -3092,43 +3092,43 @@
             "id": "roubles",
             "name": "Roubles",
             "number": "395,000 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "#fireklean_gun_lube",
             "name": "#FireKlean gun lube",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "can_of_thermite",
             "name": "Can of thermite",
             "number": "2 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
             "number": " LL3",
-            "type": "traders"
+            "type": "trader"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           },
           {
             "id": "stash",
             "name": "Stash",
             "number": "Level 2 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }
@@ -3145,25 +3145,25 @@
             "id": "christmas_tree_ornament_(red)",
             "name": "Christmas tree ornament (Red)",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "christmas_tree_ornament_(silver)",
             "name": "Christmas tree ornament (Silver)",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "christmas_tree_ornament_(violet)",
             "name": "Christmas tree ornament (Violet)",
             "number": "1 ",
-            "type": "items"
+            "type": "item"
           },
           {
             "id": "generator",
             "name": "Generator",
             "number": "Level 1 ",
-            "type": "zones"
+            "type": "zone"
           }
         ]
       }

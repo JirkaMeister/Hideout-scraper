@@ -86,15 +86,15 @@ class ZoneRequirement:
             # Traders and skills start with <a> tag
             if type(list_item.contents[0]) == element.Tag:
                 if 'LL' in list_item.contents[-1]:
-                    return 'traders'
+                    return 'trader'
                 elif 'Level' in list_item.contents[-1]:
-                    return 'skills'
+                    return 'skill'
             # Items start with a number
             elif list_item.contents[0][0].isnumeric():
-                return 'items'
+                return 'item'
             # Zones start with 'Level'
             elif 'Level' in list_item.contents[0]:
-                return 'zones'
+                return 'zone'
             else:
                 return None
     
