@@ -4,8 +4,7 @@
     "name": "Air Filtering Unit",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "dollars",
             "name": "Dollars",
@@ -57,8 +56,7 @@
     "name": "Bitcoin Farm",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "t-shaped_plug",
             "name": "T-Shaped plug",
@@ -98,8 +96,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "cpu_fan",
             "name": "CPU fan",
@@ -139,8 +136,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "cpu_fan",
             "name": "CPU fan",
@@ -192,8 +188,7 @@
     "name": "Booze Generator",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
@@ -257,8 +252,7 @@
     "name": "Cultist Circle",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "paid_antiroach_spray",
             "name": "PAID AntiRoach spray",
@@ -310,8 +304,7 @@
     "name": "Defective Wall",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "medstation",
             "name": "Medstation",
@@ -327,8 +320,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
@@ -338,8 +330,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
@@ -349,8 +340,7 @@
         ]
       },
       {
-        "level": 4,
-        "items": [
+        "4": [
           {
             "id": "fierce_blow_sledgehammer",
             "name": "Fierce Blow sledgehammer",
@@ -366,8 +356,7 @@
         ]
       },
       {
-        "level": 5,
-        "items": [
+        "5": [
           {
             "id": "metal_cutting_scissors",
             "name": "Metal cutting scissors",
@@ -389,8 +378,7 @@
         ]
       },
       {
-        "level": 6,
-        "items": [
+        "6": [
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
@@ -448,8 +436,7 @@
     "name": "Gear Rack",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -519,8 +506,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -584,8 +570,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -655,8 +640,7 @@
     "name": "Generator",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -678,8 +662,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "bulbex_cable_cutter",
             "name": "Bulbex cable cutter",
@@ -719,8 +702,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "power_supply_unit",
             "name": "Power supply unit",
@@ -778,8 +760,7 @@
     "name": "Hall of Fame",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "insulating_tape",
             "name": "Insulating tape",
@@ -825,8 +806,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "tech_manual",
             "name": "Tech manual",
@@ -884,8 +864,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
@@ -943,8 +922,7 @@
     "name": "Heating",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -960,8 +938,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1001,8 +978,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "radiator_helix",
             "name": "Radiator helix",
@@ -1054,8 +1030,7 @@
     "name": "Gym",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "toolset",
             "name": "Toolset",
@@ -1125,8 +1100,7 @@
     "name": "Illumination",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1142,8 +1116,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "light_bulb",
             "name": "Light bulb",
@@ -1165,8 +1138,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1218,8 +1190,7 @@
     "name": "Intelligence Center",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "factory_plan_map",
             "name": "Factory plan map",
@@ -1253,8 +1224,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "intelligence_folder",
             "name": "Intelligence folder",
@@ -1312,8 +1282,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "military_cable",
             "name": "Military cable",
@@ -1377,8 +1346,7 @@
     "name": "Lavatory",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1412,8 +1380,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
@@ -1459,8 +1426,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
@@ -1506,8 +1472,7 @@
     "name": "Library",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1571,8 +1536,7 @@
     "name": "Medstation",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1606,8 +1570,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1659,8 +1622,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1724,8 +1686,7 @@
     "name": "Nutrition Unit",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1759,8 +1720,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "wrench",
             "name": "Wrench",
@@ -1794,8 +1754,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1853,8 +1812,7 @@
     "name": "Rest Space",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1882,8 +1840,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1929,8 +1886,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "greenbat_lithium_battery",
             "name": "GreenBat lithium battery",
@@ -1982,8 +1938,7 @@
     "name": "Scav Case",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "golden_rooster_figurine",
             "name": "Golden rooster figurine",
@@ -2041,8 +1996,7 @@
     "name": "Security",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2058,8 +2012,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2099,8 +2052,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "nixxor_lens",
             "name": "NIXXOR lens",
@@ -2146,8 +2098,7 @@
     "name": "Shooting Range",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2181,8 +2132,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "electric_motor",
             "name": "Electric motor",
@@ -2258,8 +2208,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
@@ -2323,8 +2272,7 @@
     "name": "Solar Power",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "euros",
             "name": "Euros",
@@ -2388,12 +2336,10 @@
     "name": "Stash",
     "requirements": [
       {
-        "level": 1,
-        "items": []
+        "1": []
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2433,8 +2379,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2486,8 +2431,7 @@
         ]
       },
       {
-        "level": 4,
-        "items": [
+        "4": [
           {
             "id": "euros",
             "name": "Euros",
@@ -2563,8 +2507,7 @@
     "name": "Vents",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2574,8 +2517,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
@@ -2603,8 +2545,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "printed_circuit_board",
             "name": "Printed circuit board",
@@ -2656,8 +2597,7 @@
     "name": "Water Collector",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "duct_tape",
             "name": "Duct tape",
@@ -2691,8 +2631,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "toolset",
             "name": "Toolset",
@@ -2738,8 +2677,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2791,8 +2729,7 @@
     "name": "Weapon Rack",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "hand_drill",
             "name": "Hand drill",
@@ -2856,8 +2793,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
@@ -2939,8 +2875,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "electric_drill",
             "name": "Electric drill",
@@ -3016,8 +2951,7 @@
     "name": "Workbench",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
@@ -3039,8 +2973,7 @@
         ]
       },
       {
-        "level": 2,
-        "items": [
+        "2": [
           {
             "id": "bolts",
             "name": "Bolts",
@@ -3086,8 +3019,7 @@
         ]
       },
       {
-        "level": 3,
-        "items": [
+        "3": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -3139,8 +3071,7 @@
     "name": "Christmas Tree",
     "requirements": [
       {
-        "level": 1,
-        "items": [
+        "1": [
           {
             "id": "christmas_tree_ornament_(red)",
             "name": "Christmas tree ornament (Red)",
