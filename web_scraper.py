@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from bs4 import element
 import sys
 import time
+import json
 
 def create_id(name: str):
     # Create a unique ID for the zone based on its name
@@ -43,6 +44,21 @@ class HideoutZone:
                 print(f"  Level {level + 1}:")
                 for req in reqs:
                     print(f"    - {req}")
+
+    def to_dict(self):
+        requirements_dict = []
+        for level, reqs in enumerate(self.requirements):
+            level_reqs = {
+                'level': level + 1,
+                'items': [req.to_dict() for req in reqs]
+            }
+            requirements_dict.append(level_reqs)
+        
+        return {
+            'id': self.id,
+            'name': self.name,
+            'requirements': requirements_dict
+        }
 
 class ZoneRequirement:
     def __init__(self, name, number, req_type):
@@ -86,6 +102,14 @@ class ZoneRequirement:
         if self.type == 'items':
             return f"{self.number}x {self.name}"
         return f"{self.name} {self.number}"
+    
+    def to_dict(self):
+        return {
+            'id': self.id,
+            'name': self.name,
+            'number': self.number,
+            'type': self.type
+        }
 
 
 def get_zone_tables(url: str):
@@ -97,6 +121,7 @@ def get_zone_tables(url: str):
     return zone_tables
 
 def extract_zone_info(zone_table):
+    zones = []
     for table in zone_table:
         # Name of the zone is the first row of the table
         header_row = table.select('tr:first-child th')
@@ -120,19 +145,26 @@ def extract_zone_info(zone_table):
                 zone.add_requirement(requirement, level)
 
         zone.print_zone_info()
+        zones.append(zone)
+
+    return zones
 
 
 if __name__ == '__main__':
     url = 'https://escapefromtarkov.fandom.com/wiki/Hideout'
     retries = 0
+    zones = []
 
     # Retry up to 3 times in case of an error
     while retries < 3:
         try:
-            zones = get_zone_tables(url)
-            extract_zone_info(zones)
+            zone_tables = get_zone_tables(url)
+            zones = extract_zone_info(zone_tables)
             break
         except Exception as e:
             retries += 1
             print(f'Error scraping: {e}', file=sys.stderr)
             time.sleep(1)
+
+    with open('hideout_zones.json', 'w') as f:
+        json.dump([zone.to_dict() for zone in zones], f, indent=2, ensure_ascii=False)
