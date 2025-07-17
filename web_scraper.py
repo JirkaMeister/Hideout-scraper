@@ -49,14 +49,15 @@ class HideoutZone:
         requirements_dict = []
         for level, reqs in enumerate(self.requirements):
             level_reqs = {
-                level + 1 : [req.to_dict() for req in reqs]
+                'level': level + 1,
+                'requirements': [req.to_dict() for req in reqs]
             }
             requirements_dict.append(level_reqs)
         
         return {
             'id': self.id,
             'name': self.name,
-            'requirements': requirements_dict
+            'level_requirements': requirements_dict
         }
 
 class ZoneRequirement:
