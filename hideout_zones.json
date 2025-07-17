@@ -2,9 +2,10 @@
   {
     "id": "air_filtering_unit",
     "name": "Air Filtering Unit",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "dollars",
             "name": "Dollars",
@@ -54,9 +55,10 @@
   {
     "id": "bitcoin_farm",
     "name": "Bitcoin Farm",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "t-shaped_plug",
             "name": "T-Shaped plug",
@@ -96,7 +98,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "cpu_fan",
             "name": "CPU fan",
@@ -136,7 +139,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "cpu_fan",
             "name": "CPU fan",
@@ -186,9 +190,10 @@
   {
     "id": "booze_generator",
     "name": "Booze Generator",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
@@ -250,9 +255,10 @@
   {
     "id": "cultist_circle",
     "name": "Cultist Circle",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "paid_antiroach_spray",
             "name": "PAID AntiRoach spray",
@@ -302,9 +308,10 @@
   {
     "id": "defective_wall",
     "name": "Defective Wall",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "medstation",
             "name": "Medstation",
@@ -320,7 +327,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
@@ -330,7 +338,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
@@ -340,7 +349,8 @@
         ]
       },
       {
-        "4": [
+        "level": 4,
+        "requirements": [
           {
             "id": "fierce_blow_sledgehammer",
             "name": "Fierce Blow sledgehammer",
@@ -356,7 +366,8 @@
         ]
       },
       {
-        "5": [
+        "level": 5,
+        "requirements": [
           {
             "id": "metal_cutting_scissors",
             "name": "Metal cutting scissors",
@@ -378,7 +389,8 @@
         ]
       },
       {
-        "6": [
+        "level": 6,
+        "requirements": [
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
@@ -434,9 +446,10 @@
   {
     "id": "gear_rack",
     "name": "Gear Rack",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -506,7 +519,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -570,7 +584,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -638,9 +653,10 @@
   {
     "id": "generator",
     "name": "Generator",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -662,7 +678,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "bulbex_cable_cutter",
             "name": "Bulbex cable cutter",
@@ -702,7 +719,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "power_supply_unit",
             "name": "Power supply unit",
@@ -758,9 +776,10 @@
   {
     "id": "hall_of_fame",
     "name": "Hall of Fame",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "insulating_tape",
             "name": "Insulating tape",
@@ -806,7 +825,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "tech_manual",
             "name": "Tech manual",
@@ -864,7 +884,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
@@ -920,9 +941,10 @@
   {
     "id": "heating",
     "name": "Heating",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -938,7 +960,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -978,7 +1001,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "radiator_helix",
             "name": "Radiator helix",
@@ -1028,9 +1052,10 @@
   {
     "id": "gym",
     "name": "Gym",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "toolset",
             "name": "Toolset",
@@ -1098,9 +1123,10 @@
   {
     "id": "illumination",
     "name": "Illumination",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1116,7 +1142,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "light_bulb",
             "name": "Light bulb",
@@ -1138,7 +1165,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1188,9 +1216,10 @@
   {
     "id": "intelligence_center",
     "name": "Intelligence Center",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "factory_plan_map",
             "name": "Factory plan map",
@@ -1224,7 +1253,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "intelligence_folder",
             "name": "Intelligence folder",
@@ -1282,7 +1312,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "military_cable",
             "name": "Military cable",
@@ -1344,9 +1375,10 @@
   {
     "id": "lavatory",
     "name": "Lavatory",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1380,7 +1412,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
@@ -1426,7 +1459,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
@@ -1470,9 +1504,10 @@
   {
     "id": "library",
     "name": "Library",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1534,9 +1569,10 @@
   {
     "id": "medstation",
     "name": "Medstation",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1570,7 +1606,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1622,7 +1659,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1684,9 +1722,10 @@
   {
     "id": "nutrition_unit",
     "name": "Nutrition Unit",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1720,7 +1759,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "wrench",
             "name": "Wrench",
@@ -1754,7 +1794,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1810,9 +1851,10 @@
   {
     "id": "rest_space",
     "name": "Rest Space",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1840,7 +1882,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -1886,7 +1929,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "greenbat_lithium_battery",
             "name": "GreenBat lithium battery",
@@ -1936,9 +1980,10 @@
   {
     "id": "scav_case",
     "name": "Scav Case",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "golden_rooster_figurine",
             "name": "Golden rooster figurine",
@@ -1994,9 +2039,10 @@
   {
     "id": "security",
     "name": "Security",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2012,7 +2058,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2052,7 +2099,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "nixxor_lens",
             "name": "NIXXOR lens",
@@ -2096,9 +2144,10 @@
   {
     "id": "shooting_range",
     "name": "Shooting Range",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2132,7 +2181,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "electric_motor",
             "name": "Electric motor",
@@ -2208,7 +2258,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
@@ -2270,9 +2321,10 @@
   {
     "id": "solar_power",
     "name": "Solar Power",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "euros",
             "name": "Euros",
@@ -2334,12 +2386,14 @@
   {
     "id": "stash",
     "name": "Stash",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": []
+        "level": 1,
+        "requirements": []
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2379,7 +2433,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2431,7 +2486,8 @@
         ]
       },
       {
-        "4": [
+        "level": 4,
+        "requirements": [
           {
             "id": "euros",
             "name": "Euros",
@@ -2505,9 +2561,10 @@
   {
     "id": "vents",
     "name": "Vents",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2517,7 +2574,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
@@ -2545,7 +2603,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "printed_circuit_board",
             "name": "Printed circuit board",
@@ -2595,9 +2654,10 @@
   {
     "id": "water_collector",
     "name": "Water Collector",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "duct_tape",
             "name": "Duct tape",
@@ -2631,7 +2691,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "toolset",
             "name": "Toolset",
@@ -2677,7 +2738,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -2727,9 +2789,10 @@
   {
     "id": "weapon_rack",
     "name": "Weapon Rack",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "hand_drill",
             "name": "Hand drill",
@@ -2793,7 +2856,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
@@ -2875,7 +2939,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "electric_drill",
             "name": "Electric drill",
@@ -2949,9 +3014,10 @@
   {
     "id": "workbench",
     "name": "Workbench",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
@@ -2973,7 +3039,8 @@
         ]
       },
       {
-        "2": [
+        "level": 2,
+        "requirements": [
           {
             "id": "bolts",
             "name": "Bolts",
@@ -3019,7 +3086,8 @@
         ]
       },
       {
-        "3": [
+        "level": 3,
+        "requirements": [
           {
             "id": "roubles",
             "name": "Roubles",
@@ -3069,9 +3137,10 @@
   {
     "id": "christmas_tree",
     "name": "Christmas Tree",
-    "requirements": [
+    "level_requirements": [
       {
-        "1": [
+        "level": 1,
+        "requirements": [
           {
             "id": "christmas_tree_ornament_(red)",
             "name": "Christmas tree ornament (Red)",
