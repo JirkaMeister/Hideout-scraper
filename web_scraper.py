@@ -8,6 +8,7 @@ from bs4 import element
 import sys
 import time
 import json
+import re
 
 def create_id(name: str):
     # Create a unique ID for the zone based on its name
@@ -71,9 +72,7 @@ class ZoneRequirement:
         self.type = req_type
         self.link = link
         if req_type == 'item':
-            self.img = self.get_img()
-        else:
-            self.img = None
+            self.get_img()
     
     def get_name(list_item: element.Tag):
         # Name of the requirement is the text of the <a> tag
@@ -116,10 +115,26 @@ class ZoneRequirement:
             response = httpx.get(url)
             soup = BeautifulSoup(response.content, 'html.parser')
             img = soup.select('td.va-infobox-icon a img')
-            if img:
-                return img[0]['src'] if 'src' in img[0].attrs else None
-        return None
 
+            # Extract item size from the infobox
+            general_data = soup.select('td.va-infobox-cont table.va-infobox-group tr:not(.va-infobox-spacing)')
+            for row in general_data:
+                label = row.find('td', class_='va-infobox-label')
+                if label and 'Grid size' in label.text:
+                    size = row.find('td', class_='va-infobox-content').text
+                    break
+            width, height = size.strip().split('x')
+
+            # Remove the last part of the URL
+            if img and 'src' in img[0].attrs:
+                formatted_img = re.search(r'(.*\.(png|jpg|jpeg|gif|webp|svg))', img[0]['src'], re.IGNORECASE)
+
+            if formatted_img:
+                self.img = {
+                    'url': formatted_img.group(1),
+                    'width': width.strip(),
+                    'height': height.strip()
+                }
     
     def __repr__(self):
         if self.type == 'items':
@@ -132,7 +147,7 @@ class ZoneRequirement:
             'name': self.name,
             'number': self.number,
             'type': self.type,
-            'img': self.img
+            'img': self.img if hasattr(self, 'img') else None,
         }
 
 
