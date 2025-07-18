@@ -10,7 +10,7 @@ import time
 import json
 import re
 
-inverted_size = [ 'cat_figurine', 'bulbex_cable_cutter' ]
+inverted_size = [ 'cat_figurine', 'bulbex_cable_cutter', 'pipe_grip_wrench' ]
 
 def create_id(name: str):
     # Create a unique ID for the zone based on its name
