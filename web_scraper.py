@@ -29,7 +29,8 @@ class HideoutZone:
             new_requirement = ZoneRequirement(
                 ZoneRequirement.get_name(requirement_li),
                 ZoneRequirement.get_level_or_quantity(requirement_li),
-                ZoneRequirement.get_type(requirement_li)
+                ZoneRequirement.get_type(requirement_li),
+                ZoneRequirement.get_link(requirement_li)
             )
             self.requirements[level].append(new_requirement)
         except:
@@ -61,19 +62,24 @@ class HideoutZone:
         }
 
 class ZoneRequirement:
-    def __init__(self, name, number, req_type):
+    def __init__(self, name, number, req_type, link=None):
         self.id = create_id(name)
         self.name = name
         self.number = number
         if req_type == None:
             raise Exception("Invalid requirement type")
         self.type = req_type
+        self.link = link
+        if req_type == 'item':
+            self.img = self.get_img()
+        else:
+            self.img = None
     
-    def get_name(list_item):
+    def get_name(list_item: element.Tag):
         # Name of the requirement is the text of the <a> tag
         return list_item.find('a').text.strip() if list_item.find('a') else 'N/A'
 
-    def get_level_or_quantity(list_item):
+    def get_level_or_quantity(list_item: element.Tag):
         # If the first element is a string - quantity of the item  
         if type(list_item.contents[0]) == element.NavigableString:
             return list_item.contents[0] if list_item.contents else 'N/A'
@@ -81,7 +87,7 @@ class ZoneRequirement:
         else:
             return list_item.contents[-1] if list_item.contents else 'N/A'
     
-    def get_type(list_item):
+    def get_type(list_item: element.Tag):
         if list_item :
             # Traders and skills start with <a> tag
             if type(list_item.contents[0]) == element.Tag:
@@ -97,6 +103,23 @@ class ZoneRequirement:
                 return 'zone'
             else:
                 return None
+            
+    def get_link(list_item: element.Tag):
+        for content in list_item.contents:
+            if type(content) == element.Tag and content.name == 'a':
+                return content['href'] if 'href' in content.attrs else None
+        return None
+    
+    def get_img(self):
+        if self.link:
+            url = 'https://escapefromtarkov.fandom.com' + self.link
+            response = httpx.get(url)
+            soup = BeautifulSoup(response.content, 'html.parser')
+            img = soup.select('td.va-infobox-icon a img')
+            if img:
+                return img[0]['src'] if 'src' in img[0].attrs else None
+        return None
+
     
     def __repr__(self):
         if self.type == 'items':
@@ -108,7 +131,8 @@ class ZoneRequirement:
             'id': self.id,
             'name': self.name,
             'number': self.number,
-            'type': self.type
+            'type': self.type,
+            'img': self.img
         }
 
 
