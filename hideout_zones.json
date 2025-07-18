@@ -1052,8 +1052,8 @@
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Bulbex_cable_cutter_icon1.png",
-              "width": "2",
-              "height": "1"
+              "width": "1",
+              "height": "2"
             }
           },
           {
@@ -1235,8 +1235,8 @@
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Caticon.png",
-              "width": "3",
-              "height": "1"
+              "width": "1",
+              "height": "3"
             }
           },
           {

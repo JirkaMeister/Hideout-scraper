@@ -10,6 +10,8 @@ import time
 import json
 import re
 
+inverted_size = [ 'cat_figurine', 'bulbex_cable_cutter' ]
+
 def create_id(name: str):
     # Create a unique ID for the zone based on its name
     return name.lower().replace(' ', '_').replace('\"', '')
@@ -123,7 +125,13 @@ class ZoneRequirement:
                 if label and 'Grid size' in label.text:
                     size = row.find('td', class_='va-infobox-content').text
                     break
+
             width, height = size.strip().split('x')
+
+            # Special case for items that have width and height inverted on the wiki
+            if self.id in inverted_size:
+                width, height = height, width
+
 
             # Remove the last part of the URL
             if img and 'src' in img[0].attrs:
