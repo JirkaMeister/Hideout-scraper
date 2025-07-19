@@ -9,65 +9,65 @@
           {
             "id": "dollars",
             "name": "Dollars",
-            "number": "25,000 ",
+            "number": 25000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c4/Dollarsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "gas_mask_air_filter",
             "name": "Gas mask air filter",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Airfiltericon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "military_power_filter",
             "name": "Military power filter",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/Mil_Filter_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "military_corrugated_tube",
             "name": "Military corrugated tube",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/Military_corrugated_tube_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "skier",
             "name": "Skier",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -85,58 +85,58 @@
           {
             "id": "t-shaped_plug",
             "name": "T-Shaped plug",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/T-Shaped_Plug_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "vpx_flash_storage_module",
             "name": "VPX Flash Storage Module",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": null
           },
           {
             "id": "power_cord",
             "name": "Power cord",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "power_supply_unit",
             "name": "Power supply unit",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Psuicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "cpu_fan",
             "name": "CPU fan",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/CPU_Fan_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "intelligence_center",
             "name": "Intelligence Center",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -148,62 +148,62 @@
           {
             "id": "cpu_fan",
             "name": "CPU fan",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/CPU_Fan_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "power_supply_unit",
             "name": "Power supply unit",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Psuicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "printed_circuit_board",
             "name": "Printed circuit board",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Circuit_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/Relay_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "military_power_filter",
             "name": "Military power filter",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/Mil_Filter_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -215,61 +215,61 @@
           {
             "id": "cpu_fan",
             "name": "CPU fan",
-            "number": "25 ",
+            "number": 25,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/CPU_Fan_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "silicone_tube",
             "name": "Silicone tube",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/SiliconeTubeIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Electric_motor_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "pressure_gauge",
             "name": "Pressure gauge",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": null
           },
           {
             "id": "6-sten-140-m_military_battery",
             "name": "6-STEN-140-M military battery",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": null
           },
           {
             "id": "solar_power",
             "name": "Solar Power",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -287,87 +287,87 @@
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pressure_gauge",
             "name": "Pressure gauge",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": null
           },
           {
             "id": "radiator_helix",
             "name": "Radiator helix",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/RadiatorHelixIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "silicone_tube",
             "name": "Silicone tube",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/SiliconeTubeIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pipe_grip_wrench",
             "name": "Pipe grip wrench",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Pgw_small.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "analog_thermometer",
             "name": "Analog thermometer",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/Anal_Thermometer_Icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hoseicon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "nutrition_unit",
             "name": "Nutrition Unit",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -385,73 +385,73 @@
           {
             "id": "paid_antiroach_spray",
             "name": "PAID AntiRoach spray",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/Paidicon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "light_bulb",
             "name": "Light bulb",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/Bulb_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "can_of_white_salt",
             "name": "Can of white salt",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Can_of_salt_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "survl_survivor_lighter",
             "name": "SurvL Survivor Lighter",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/SurvL_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "construction_measuring_tape",
             "name": "Construction measuring tape",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Construction_Measuring_Tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "wi-fi_camera",
             "name": "WI-FI Camera",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WIFI_Camera_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "security",
             "name": "Security",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -469,14 +469,14 @@
           {
             "id": "medstation",
             "name": "Medstation",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -488,12 +488,12 @@
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           }
         ]
@@ -504,12 +504,12 @@
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           }
         ]
@@ -520,23 +520,23 @@
           {
             "id": "fierce_blow_sledgehammer",
             "name": "Fierce Blow sledgehammer",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Fierce_blow_sledgehammer_icon.png",
-              "width": "2",
-              "height": "5"
+              "width": 2,
+              "height": 5
             }
           },
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           }
         ]
@@ -547,34 +547,34 @@
           {
             "id": "metal_cutting_scissors",
             "name": "Metal cutting scissors",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Metal_cutting_scissors_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "toolset",
             "name": "Toolset",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           }
         ]
@@ -585,89 +585,89 @@
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hoseicon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/Duct_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "toolset",
             "name": "Toolset",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/PliersElite.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ce/Xenoicon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "light_bulb",
             "name": "Light bulb",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/Bulb_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -684,109 +684,109 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "300,000 ",
+            "number": 300000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "sewing_kit",
             "name": "Sewing kit",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/SewingKit_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "awl",
             "name": "Awl",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/Awl_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "leatherman_multitool",
             "name": "Leatherman Multitool",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Multitoolicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bolts",
             "name": "Bolts",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "8 ",
+            "number": 8,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "ragman",
             "name": "Ragman",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "defective_wall",
             "name": "Defective wall",
-            "number": "Level 6 ",
+            "number": 6,
             "type": "zone",
             "img": null
           },
           {
             "id": "illumination",
             "name": "Illumination",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -798,102 +798,102 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "800,000 ",
+            "number": 800000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/Duct_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "shustrilo_sealing_foam",
             "name": "Shustrilo sealing foam",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Shusicon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
-            "number": "8 ",
+            "number": 8,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Nailsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "12 ",
+            "number": 12,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "aramid_fiber_fabric",
             "name": "Aramid fiber fabric",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/Aramid_Icon_.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "wrench",
             "name": "Wrench",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wrench_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "ragman",
             "name": "Ragman",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "hall_of_fame",
             "name": "Hall of Fame",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -905,98 +905,98 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "1,200,000 ",
+            "number": 1200000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "body_armor_repair_kit",
             "name": "Body armor repair kit",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": null
           },
           {
             "id": "cordura_polyamide_fabric",
             "name": "Cordura polyamide fabric",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/Cordura_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/KEKTape_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Files_master_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "ratchet_wrench",
             "name": "Ratchet wrench",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/Ratchet_wrench_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "ragman",
             "name": "Ragman",
-            "number": " LL4",
+            "number": 4,
             "type": "trader",
             "img": null
           },
           {
             "id": "hall_of_fame",
             "name": "Hall of Fame",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -1014,29 +1014,29 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "100,000 ",
+            "number": 100000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "spark_plug",
             "name": "Spark plug",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Spark_Plug_Icon_.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "security",
             "name": "Security",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -1048,58 +1048,58 @@
           {
             "id": "bulbex_cable_cutter",
             "name": "Bulbex cable cutter",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Bulbex_cable_cutter_icon1.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/Relay_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Electric_motor_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "security",
             "name": "Security",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -1111,76 +1111,76 @@
           {
             "id": "power_supply_unit",
             "name": "Power supply unit",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Psuicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
-            "number": "6 ",
+            "number": 6,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/Relay_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Electric_motor_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "spark_plug",
             "name": "Spark plug",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Spark_Plug_Icon_.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "7 ",
+            "number": 7,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "security",
             "name": "Security",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -1198,73 +1198,73 @@
           {
             "id": "insulating_tape",
             "name": "Insulating tape",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Insulating_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Nailsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "light_bulb",
             "name": "Light bulb",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/Bulb_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "cat_figurine",
             "name": "Cat figurine",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Caticon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "fleece_fabric",
             "name": "Fleece fabric",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "round_pliers",
             "name": "Round pliers",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dd/RoundPliersIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           }
@@ -1276,100 +1276,100 @@
           {
             "id": "tech_manual",
             "name": "Tech manual",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7b/Lada_manual_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/PliersElite.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "toolset",
             "name": "Toolset",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "golden_rooster_figurine",
             "name": "Golden rooster figurine",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/GoldenRoosterIcon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
-            "number": "6 ",
+            "number": 6,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Screwsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/Duct_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ce/Xenoicon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "tube_of_poxeram_cold_welding",
             "name": "Tube of Poxeram cold welding",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/PoxeramIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -1380,89 +1380,89 @@
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Files_master_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "bronze_lion_figurine",
             "name": "Bronze lion figurine",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/Bronze_Lion_Icon.png",
-              "width": "3",
-              "height": "2"
+              "width": 3,
+              "height": 2
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/KEKTape_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "t-shaped_plug",
             "name": "T-Shaped plug",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/T-Shaped_Plug_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "power_cord",
             "name": "Power cord",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           }
         ]
@@ -1479,23 +1479,23 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "25,000 ",
+            "number": 25000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "classic_matches",
             "name": "Classic matches",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Matches_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -1506,58 +1506,58 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "50,000 ",
+            "number": 50000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "dry_fuel",
             "name": "Dry fuel",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Dryfuelicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "hunting_matches",
             "name": "Hunting matches",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/HunterMatches_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "crickent_lighter",
             "name": "Crickent lighter",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Cricket_lighter_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "endurance",
             "name": "Endurance",
-            "number": " Level 1",
+            "number": 1,
             "type": "skill",
             "img": null
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -1569,65 +1569,65 @@
           {
             "id": "radiator_helix",
             "name": "Radiator helix",
-            "number": "8 ",
+            "number": 8,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/RadiatorHelixIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "8 ",
+            "number": 8,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/Relay_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "military_corrugated_tube",
             "name": "Military corrugated tube",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/Military_corrugated_tube_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "ragman",
             "name": "Ragman",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -1645,98 +1645,98 @@
           {
             "id": "toolset",
             "name": "Toolset",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "metal_cutting_scissors",
             "name": "Metal cutting scissors",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Metal_cutting_scissors_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Screwnuticon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bolts",
             "name": "Bolts",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "wd-40_(100ml)",
             "name": "WD-40 (100ml)",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/WD40_100ml_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "insulating_tape",
             "name": "Insulating tape",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Insulating_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "defective_wall",
             "name": "Defective wall",
-            "number": "Level 6 ",
+            "number": 6,
             "type": "zone",
             "img": null
           },
           {
             "id": "illumination",
             "name": "Illumination",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -1754,23 +1754,23 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "10,000 ",
+            "number": 10000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "crickent_lighter",
             "name": "Crickent lighter",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Cricket_lighter_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -1781,29 +1781,29 @@
           {
             "id": "light_bulb",
             "name": "Light bulb",
-            "number": "14 ",
+            "number": 14,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/Bulb_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -1815,65 +1815,65 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "50,000 ",
+            "number": 50000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "capacitors",
             "name": "Capacitors",
-            "number": "7 ",
+            "number": 7,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Capacitorsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "12 ",
+            "number": 12,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "6 ",
+            "number": 6,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -1891,39 +1891,39 @@
           {
             "id": "factory_plan_map",
             "name": "Factory plan map",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": null
           },
           {
             "id": "intelligence_folder",
             "name": "Intelligence folder",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": null
           },
           {
             "id": "topographic_survey_map",
             "name": "Topographic survey map",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/MapsIcon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "security",
             "name": "Security",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -1935,71 +1935,71 @@
           {
             "id": "intelligence_folder",
             "name": "Intelligence folder",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": null
           },
           {
             "id": "secure_flash_drive",
             "name": "Secure Flash drive",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": null
           },
           {
             "id": "power_cord",
             "name": "Power cord",
-            "number": "7 ",
+            "number": 7,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "damaged_hard_drive",
             "name": "Damaged hard drive",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/Damaged_Hard_Drive_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "attention",
             "name": "Attention",
-            "number": " Level 3",
+            "number": 3,
             "type": "skill",
             "img": null
           },
           {
             "id": "security",
             "name": "Security",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "medstation",
             "name": "Medstation",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "nutrition_unit",
             "name": "Nutrition Unit",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -2011,75 +2011,75 @@
           {
             "id": "military_cable",
             "name": "Military cable",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/MilitaryCableIcon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "military_cofdm_wireless_signal_transmitter",
             "name": "Military COFDM Wireless Signal Transmitter",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": null
           },
           {
             "id": "far-forward_gps_signal_amplifier_unit",
             "name": "Far-forward GPS Signal Amplifier Unit",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": null
           },
           {
             "id": "vpx_flash_storage_module",
             "name": "VPX Flash Storage Module",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": null
           },
           {
             "id": "military_flash_drive",
             "name": "Military flash drive",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/MFD_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "secure_magnetic_tape_cassette",
             "name": "Secure magnetic tape cassette",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/SMT_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "prapor",
             "name": "Prapor",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -2097,56 +2097,56 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "2,000 ",
+            "number": 2000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "toilet_paper",
             "name": "Toilet paper",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Toilet_paper_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "toothpaste",
             "name": "Toothpaste",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d0/Toothpasteicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "soap",
             "name": "Soap",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Soap_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "awl",
             "name": "Awl",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/Awl_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -2157,69 +2157,69 @@
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/KEKTape_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hoseicon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Screwsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "sewing_kit",
             "name": "Sewing kit",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/SewingKit_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -2231,54 +2231,54 @@
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ce/Xenoicon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
-            "number": "6 ",
+            "number": 6,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hoseicon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "pressure_gauge",
             "name": "Pressure gauge",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": null
           },
           {
             "id": "toolset",
             "name": "Toolset",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "water_collector",
             "name": "Water Collector",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -2296,91 +2296,91 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "400,000 ",
+            "number": 400000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bakeezy_cook_book",
             "name": "BakeEzy cook book",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/BakeEzy_Cook_Book_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "slim_diary",
             "name": "Slim diary",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/SlimDiaryIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "diary",
             "name": "Diary",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/Diary_Icon1.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "tech_manual",
             "name": "Tech manual",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7b/Lada_manual_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "chainlet",
             "name": "Chainlet",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/Chainlet_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "horse_figurine",
             "name": "Horse figurine",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/Horse_figurine_Icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "hideout_management",
             "name": "Hideout Management",
-            "number": " Level 5",
+            "number": 5,
             "type": "skill",
             "img": null
           },
           {
             "id": "rest_space",
             "name": "Rest Space",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -2398,56 +2398,56 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "50,000 ",
+            "number": 50000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "disposable_syringe",
             "name": "Disposable syringe",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/DisposableSyringeIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pile_of_meds",
             "name": "Pile of meds",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "aseptic_bandage",
             "name": "Aseptic bandage",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/EFT_Aseptic-Bandage_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bottle_of_ololo_multivitamins",
             "name": "Bottle of OLOLO Multivitamins",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/Ololo_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -2458,76 +2458,76 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "150,000 ",
+            "number": 150000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bottle_of_saline_solution",
             "name": "Bottle of saline solution",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/Saline_Solution_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "medical_bloodset",
             "name": "Medical bloodset",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Medical_Bloodset_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "esmarch_tourniquet",
             "name": "Esmarch tourniquet",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/TournIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "medical_tools",
             "name": "Medical tools",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/48/Medical_tools.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "therapist",
             "name": "Therapist",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "health",
             "name": "Health",
-            "number": " Level 2",
+            "number": 2,
             "type": "skill",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -2539,75 +2539,75 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "500,000 ",
+            "number": 500000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "ophthalmoscope",
             "name": "Ophthalmoscope",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/Ophthalmoscopeicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bottle_of_saline_solution",
             "name": "Bottle of saline solution",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/Saline_Solution_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "ledx_skin_transilluminator",
             "name": "LEDX Skin Transilluminator",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": null
           },
           {
             "id": "therapist",
             "name": "Therapist",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "skier",
             "name": "Skier",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "vitality",
             "name": "Vitality",
-            "number": " Level 3",
+            "number": 3,
             "type": "skill",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "lavatory",
             "name": "Lavatory",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -2625,51 +2625,51 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "25,000 ",
+            "number": 25000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "can_of_white_salt",
             "name": "Can of white salt",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Can_of_salt_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "power_cord",
             "name": "Power cord",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/Relay_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -2681,51 +2681,51 @@
           {
             "id": "wrench",
             "name": "Wrench",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wrench_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hoseicon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "alkaline_cleaner_for_heat_exchangers",
             "name": "Alkaline cleaner for heat exchangers",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Heat-exchange_alkali_surface_washer_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/Relay_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "lavatory",
             "name": "Lavatory",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -2737,72 +2737,72 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "125,000 ",
+            "number": 125000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "can_of_majaica_coffee_beans",
             "name": "Can of Majaica coffee beans",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/Coffeicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pack_of_sodium_bicarbonate",
             "name": "Pack of sodium bicarbonate",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/84/Sodium_Bicarbonate_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "smoked_chimney_drain_cleaner",
             "name": "Smoked Chimney drain cleaner",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Smokedchimneydraincleanericon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "metabolism",
             "name": "Metabolism",
-            "number": " Level 3",
+            "number": 3,
             "type": "skill",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "lavatory",
             "name": "Lavatory",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "stash",
             "name": "Stash",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -2820,40 +2820,40 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "10,000 ",
+            "number": 10000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/Duct_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "classic_matches",
             "name": "Classic matches",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Matches_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -2865,65 +2865,65 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "35,000 ",
+            "number": 35000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "dvd_drive",
             "name": "DVD drive",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/DVD_drive_Icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "magnet",
             "name": "Magnet",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Magnet_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "ragman",
             "name": "Ragman",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "heating",
             "name": "Heating",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -2935,65 +2935,65 @@
           {
             "id": "greenbat_lithium_battery",
             "name": "GreenBat lithium battery",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/GreenBat_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "power_cord",
             "name": "Power cord",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "capacitors",
             "name": "Capacitors",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Capacitorsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "7 ",
+            "number": 7,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "skier",
             "name": "Skier",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "heating",
             "name": "Heating",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -3011,80 +3011,80 @@
           {
             "id": "golden_rooster_figurine",
             "name": "Golden rooster figurine",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/GoldenRoosterIcon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "lucky_scav_junk_box",
             "name": "Lucky Scav Junk box",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/Junkbox.png",
-              "width": "4",
-              "height": "4"
+              "width": 4,
+              "height": 4
             }
           },
           {
             "id": "bottle_of_fierce_hatchling_moonshine",
             "name": "Bottle of Fierce Hatchling moonshine",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": null
           },
           {
             "id": "roler_submariner_gold_wrist_watch",
             "name": "Roler Submariner gold wrist watch",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e7/Roler_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "golden_neck_chain",
             "name": "Golden neck chain",
-            "number": "8 ",
+            "number": 8,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/Golden_neck_chain_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "gold_skull_ring",
             "name": "Gold skull ring",
-            "number": "6 ",
+            "number": 6,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/SkullRing_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bronze_lion_figurine",
             "name": "Bronze lion figurine",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/Bronze_Lion_Icon.png",
-              "width": "3",
-              "height": "2"
+              "width": 3,
+              "height": 2
             }
           },
           {
             "id": "intelligence_center",
             "name": "Intelligence Center",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -3102,23 +3102,23 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "20,000 ",
+            "number": 20000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "construction_measuring_tape",
             "name": "Construction measuring tape",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Construction_Measuring_Tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -3129,58 +3129,58 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "45,000 ",
+            "number": 45000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "wd-40_(100ml)",
             "name": "WD-40 (100ml)",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/WD40_100ml_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/PliersElite.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "tp-200_tnt_brick",
             "name": "TP-200 TNT brick",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/TNT_brick_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "endurance",
             "name": "Endurance",
-            "number": " Level 2",
+            "number": 2,
             "type": "skill",
             "img": null
           },
           {
             "id": "illumination",
             "name": "Illumination",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -3192,58 +3192,58 @@
           {
             "id": "nixxor_lens",
             "name": "NIXXOR lens",
-            "number": "8 ",
+            "number": 8,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/NIXXOR_lens_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "working_lcd",
             "name": "Working LCD",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Working_LCD_Icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "ssd_drive",
             "name": "SSD drive",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Ssd_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "illumination",
             "name": "Illumination",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -3261,51 +3261,51 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "20,000 ",
+            "number": 20000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bolts",
             "name": "Bolts",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Screwnuticon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "illumination",
             "name": "Illumination",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -3317,124 +3317,124 @@
           {
             "id": "electric_motor",
             "name": "Electric motor",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Electric_motor_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "construction_measuring_tape",
             "name": "Construction measuring tape",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Construction_Measuring_Tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "tube_of_poxeram_cold_welding",
             "name": "Tube of Poxeram cold welding",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/PoxeramIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "toolset",
             "name": "Toolset",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Screwsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "wi-fi_camera",
             "name": "WI-FI Camera",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WIFI_Camera_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "6 ",
+            "number": 6,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "illumination",
             "name": "Illumination",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -3446,100 +3446,100 @@
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Files_master_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "printed_circuit_board",
             "name": "Printed circuit board",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Circuit_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "capacitors",
             "name": "Capacitors",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Capacitorsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "phase_control_relay",
             "name": "Phase control relay",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/Relay_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "power_cord",
             "name": "Power cord",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "leatherman_multitool",
             "name": "Leatherman Multitool",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Multitoolicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "tech_manual",
             "name": "Tech manual",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7b/Lada_manual_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           }
         ]
@@ -3556,83 +3556,83 @@
           {
             "id": "euros",
             "name": "Euros",
-            "number": "25,000 ",
+            "number": 25000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Eurosicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "phased_array_element",
             "name": "Phased array element",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": null
           },
           {
             "id": "advanced_current_converter",
             "name": "Advanced current converter",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Far_Forward_Current_Converter_Icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "working_lcd",
             "name": "Working LCD",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Working_LCD_Icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "military_cable",
             "name": "Military cable",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/MilitaryCableIcon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "military_power_filter",
             "name": "Military power filter",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/Mil_Filter_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "peacekeeper",
             "name": "Peacekeeper",
-            "number": " LL4",
+            "number": 4,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -3654,62 +3654,62 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "2,500,000 ",
+            "number": 2500000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "wd-40_(100ml)",
             "name": "WD-40 (100ml)",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/WD40_100ml_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "hand_drill",
             "name": "Hand drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/Handdrill_icon.png",
-              "width": "3",
-              "height": "2"
+              "width": 3,
+              "height": 2
             }
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Nailsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Screwsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -3721,72 +3721,72 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "8,500,000 ",
+            "number": 8500000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Screwsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
-            "number": "7 ",
+            "number": 7,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Nailsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "prapor",
             "name": "Prapor",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "ragman",
             "name": "Ragman",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "vents",
             "name": "Vents",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "heating",
             "name": "Heating",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -3798,97 +3798,97 @@
           {
             "id": "euros",
             "name": "Euros",
-            "number": "200,000 ",
+            "number": 200000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Eurosicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Screwnuticon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bolts",
             "name": "Bolts",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "shustrilo_sealing_foam",
             "name": "Shustrilo sealing foam",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Shusicon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "ratchet_wrench",
             "name": "Ratchet wrench",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/Ratchet_wrench_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "peacekeeper",
             "name": "Peacekeeper",
-            "number": " LL4",
+            "number": 4,
             "type": "trader",
             "img": null
           },
           {
             "id": "ragman",
             "name": "Ragman",
-            "number": " LL4",
+            "number": 4,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "heating",
             "name": "Heating",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "intelligence_center",
             "name": "Intelligence Center",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -3906,12 +3906,12 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "25,000 ",
+            "number": 25000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -3922,45 +3922,45 @@
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "cpu_fan",
             "name": "CPU fan",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/CPU_Fan_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "car_battery",
             "name": "Car battery",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/Car_Battery_Icon.png",
-              "width": "3",
-              "height": "2"
+              "width": 3,
+              "height": 2
             }
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Electric_motor_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           }
         ]
@@ -3971,69 +3971,69 @@
           {
             "id": "printed_circuit_board",
             "name": "Printed circuit board",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Circuit_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Electric_motor_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "14 ",
+            "number": 14,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "car_battery",
             "name": "Car battery",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/Car_Battery_Icon.png",
-              "width": "3",
-              "height": "2"
+              "width": 3,
+              "height": 2
             }
           },
           {
             "id": "strength",
             "name": "Strength",
-            "number": " Level 2",
+            "number": 2,
             "type": "skill",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -4051,51 +4051,51 @@
           {
             "id": "duct_tape",
             "name": "Duct tape",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/Duct_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Screwnuticon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bolts",
             "name": "Bolts",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
-            "number": "4 ",
+            "number": 4,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hoseicon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "security",
             "name": "Security",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }
@@ -4107,65 +4107,65 @@
           {
             "id": "toolset",
             "name": "Toolset",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "corrugated_hose",
             "name": "Corrugated hose",
-            "number": "6 ",
+            "number": 6,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hoseicon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "electric_motor",
             "name": "Electric motor",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Electric_motor_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/KEKTape_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "jaeger",
             "name": "Jaeger",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "attention",
             "name": "Attention",
-            "number": " Level 3",
+            "number": 3,
             "type": "skill",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -4177,65 +4177,65 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "20,000 ",
+            "number": 20000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "ratchet_wrench",
             "name": "Ratchet wrench",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/Ratchet_wrench_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/PliersElite.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "shustrilo_sealing_foam",
             "name": "Shustrilo sealing foam",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Shusicon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "jaeger",
             "name": "Jaeger",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "heating",
             "name": "Heating",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -4253,98 +4253,98 @@
           {
             "id": "hand_drill",
             "name": "Hand drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/Handdrill_icon.png",
-              "width": "3",
-              "height": "2"
+              "width": 3,
+              "height": 2
             }
           },
           {
             "id": "metal_cutting_scissors",
             "name": "Metal cutting scissors",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Metal_cutting_scissors_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "xenomorph_sealing_foam",
             "name": "Xenomorph sealing foam",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ce/Xenoicon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "bolts",
             "name": "Bolts",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "insulating_tape",
             "name": "Insulating tape",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Insulating_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pack_of_nails",
             "name": "Pack of nails",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Nailsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "illumination",
             "name": "Illumination",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "stash",
             "name": "Stash",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -4356,127 +4356,127 @@
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pack_of_screws",
             "name": "Pack of screws",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Screwsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Files_master_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "tube_of_poxeram_cold_welding",
             "name": "Tube of Poxeram cold welding",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/PoxeramIcon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "duct_tape",
             "name": "Duct tape",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/Duct_tape_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "weapon_parts",
             "name": "Weapon parts",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/WeaponPartsIcon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "shooting_range",
             "name": "Shooting Range",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "stash",
             "name": "Stash",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -4488,109 +4488,109 @@
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "energy-saving_lamp",
             "name": "Energy-saving lamp",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Energy-Saving_Lamp_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "metal_spare_parts",
             "name": "Metal spare parts",
-            "number": "10 ",
+            "number": 10,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/M-parts-icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "kektape_duct_tape",
             "name": "KEKTAPE duct tape",
-            "number": "5 ",
+            "number": 5,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/KEKTape_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bundle_of_wires",
             "name": "Bundle of wires",
-            "number": "15 ",
+            "number": 15,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "shustrilo_sealing_foam",
             "name": "Shustrilo sealing foam",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Shusicon.png",
-              "width": "1",
-              "height": "3"
+              "width": 1,
+              "height": 3
             }
           },
           {
             "id": "tech_manual",
             "name": "Tech manual",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7b/Lada_manual_icon.png",
-              "width": "1",
-              "height": "2"
+              "width": 1,
+              "height": 2
             }
           },
           {
             "id": "#fireklean_gun_lube",
             "name": "#FireKlean gun lube",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/FireKlean_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL4",
+            "number": 4,
             "type": "trader",
             "img": null
           },
           {
             "id": "shooting_range",
             "name": "Shooting Range",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           },
           {
             "id": "workbench",
             "name": "Workbench",
-            "number": "Level 3 ",
+            "number": 3,
             "type": "zone",
             "img": null
           }
@@ -4608,34 +4608,34 @@
           {
             "id": "screw_nuts",
             "name": "Screw nuts",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Screwnuticon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "bolts",
             "name": "Bolts",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "leatherman_multitool",
             "name": "Leatherman Multitool",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Multitoolicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           }
         ]
@@ -4646,69 +4646,69 @@
           {
             "id": "bolts",
             "name": "Bolts",
-            "number": "6 ",
+            "number": 6,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Boltsicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "toolset",
             "name": "Toolset",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "set_of_files_master",
             "name": "Set of files \"Master\"",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Files_master_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "electric_drill",
             "name": "Electric drill",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Electric_Drill_icon.png",
-              "width": "2",
-              "height": "2"
+              "width": 2,
+              "height": 2
             }
           },
           {
             "id": "weapon_parts",
             "name": "Weapon parts",
-            "number": "3 ",
+            "number": 3,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/WeaponPartsIcon.png",
-              "width": "2",
-              "height": "1"
+              "width": 2,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL2",
+            "number": 2,
             "type": "trader",
             "img": null
           },
           {
             "id": "illumination",
             "name": "Illumination",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -4720,65 +4720,65 @@
           {
             "id": "roubles",
             "name": "Roubles",
-            "number": "395,000 ",
+            "number": 395000,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Roublesicon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "pliers_elite",
             "name": "Pliers Elite",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/PliersElite.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "#fireklean_gun_lube",
             "name": "#FireKlean gun lube",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/FireKlean_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "can_of_thermite",
             "name": "Can of thermite",
-            "number": "2 ",
+            "number": 2,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Can_of_thermite_Icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "mechanic",
             "name": "Mechanic",
-            "number": " LL3",
+            "number": 3,
             "type": "trader",
             "img": null
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           },
           {
             "id": "stash",
             "name": "Stash",
-            "number": "Level 2 ",
+            "number": 2,
             "type": "zone",
             "img": null
           }
@@ -4796,40 +4796,40 @@
           {
             "id": "christmas_tree_ornament_(red)",
             "name": "Christmas tree ornament (Red)",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/82/Christmas_ornament_red_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "christmas_tree_ornament_(silver)",
             "name": "Christmas tree ornament (Silver)",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Christmas_ornament_silver_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "christmas_tree_ornament_(violet)",
             "name": "Christmas tree ornament (Violet)",
-            "number": "1 ",
+            "number": 1,
             "type": "item",
             "img": {
               "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Christmas_ornament_violet_icon.png",
-              "width": "1",
-              "height": "1"
+              "width": 1,
+              "height": 1
             }
           },
           {
             "id": "generator",
             "name": "Generator",
-            "number": "Level 1 ",
+            "number": 1,
             "type": "zone",
             "img": null
           }

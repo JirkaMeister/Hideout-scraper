@@ -16,6 +16,10 @@ def create_id(name: str):
     # Create a unique ID for the zone based on its name
     return name.lower().replace(' ', '_').replace('\"', '')
 
+def extract_number(text):
+    digits = ''.join(filter(str.isdigit, text))
+    return int(digits) if digits else None
+
 class HideoutZone:
     def __init__(self, name):
         self.id = create_id(name)
@@ -83,10 +87,10 @@ class ZoneRequirement:
     def get_level_or_quantity(list_item: element.Tag):
         # If the first element is a string - quantity of the item  
         if type(list_item.contents[0]) == element.NavigableString:
-            return list_item.contents[0] if list_item.contents else 'N/A'
+            return extract_number(list_item.contents[0]) if list_item.contents else 'N/A'
         # Otherwise the last element is the level of trader/skill/zone
         else:
-            return list_item.contents[-1] if list_item.contents else 'N/A'
+            return extract_number(list_item.contents[-1]) if list_item.contents else 'N/A'
     
     def get_type(list_item: element.Tag):
         if list_item :
@@ -140,8 +144,8 @@ class ZoneRequirement:
             if formatted_img:
                 self.img = {
                     'url': formatted_img.group(1),
-                    'width': width.strip(),
-                    'height': height.strip()
+                    'width': int(width.strip()),
+                    'height': int(height.strip())
                 }
     
     def __repr__(self):
