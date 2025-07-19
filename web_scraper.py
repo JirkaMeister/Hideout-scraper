@@ -10,8 +10,6 @@ import time
 import json
 import re
 
-inverted_size = [ 'cat_figurine', 'bulbex_cable_cutter', 'pipe_grip_wrench' ]
-
 def create_id(name: str):
     # Create a unique ID for the zone based on its name
     return name.lower().replace(' ', '_').replace('\"', '')
@@ -194,12 +192,24 @@ def extract_zone_info(zone_table):
         for level, requirements_list in enumerate(requirements_levels, start=1):
             for requirement in requirements_list:
                 zone.add_requirement(requirement, level)
+            if zone.id == 'hall_of_fame' and level == 1:
+                zone.requirements[level - 1].append(missing_requirements['hall_of_fame'])
 
         zone.print_zone_info()
         zones.append(zone)
 
     return zones
 
+inverted_size = [ 'cat_figurine', 'bulbex_cable_cutter', 'pipe_grip_wrench' ]
+
+missing_requirements = {
+    'hall_of_fame': ZoneRequirement(
+        'Defective wall',
+        6,
+        'zone',
+        None
+    )
+}
 
 if __name__ == '__main__':
     url = 'https://escapefromtarkov.fandom.com/wiki/Hideout'
@@ -218,4 +228,4 @@ if __name__ == '__main__':
             time.sleep(1)
 
     with open('hideout_zones.json', 'w') as f:
-        json.dump([zone.to_dict() for zone in zones], f, indent=2, ensure_ascii=False)
+        json.dump([zone.to_dict() for zone in zones], f, indent=4)
