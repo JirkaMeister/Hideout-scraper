@@ -2,6 +2,7 @@
     {
         "id": "air_filtering_unit",
         "name": "Air Filtering Unit",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Air_Filtering_Unit_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -62,14 +63,22 @@
                         "name": "Generator",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "vents",
                         "name": "Vents",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -78,6 +87,7 @@
     {
         "id": "bitcoin_farm",
         "name": "Bitcoin Farm",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Bitcoin_Farm_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -138,7 +148,11 @@
                         "name": "Intelligence Center",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Intelligence_Center_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -205,7 +219,11 @@
                         "name": "Generator",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -264,14 +282,22 @@
                         "name": "Solar Power",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Solar_power_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "water_collector",
                         "name": "Water Collector",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Water_Collector_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -280,6 +306,7 @@
     {
         "id": "booze_generator",
         "name": "Booze Generator",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/Booze_Generator_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -362,14 +389,22 @@
                         "name": "Water Collector",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Water_Collector_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "nutrition_unit",
                         "name": "Nutrition Unit",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/Nutrition_Unit_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -378,6 +413,7 @@
     {
         "id": "cultist_circle",
         "name": "Cultist Circle",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Cultist_Circle_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -453,7 +489,11 @@
                         "name": "Security",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -462,6 +502,7 @@
     {
         "id": "defective_wall",
         "name": "Defective Wall",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Defective_Wall_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -471,14 +512,22 @@
                         "name": "Medstation",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/Medstation_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "water_collector",
                         "name": "Water Collector",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Water_Collector_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -677,6 +726,7 @@
     {
         "id": "gear_rack",
         "name": "Gear Rack",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/Gear_Rack_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -781,14 +831,22 @@
                         "name": "Defective wall",
                         "number": 6,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Defective_Wall_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "illumination",
                         "name": "Illumination",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -895,7 +953,11 @@
                         "name": "Hall of Fame",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/Hall_of_Fame_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -998,7 +1060,11 @@
                         "name": "Hall of Fame",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/Hall_of_Fame_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -1007,6 +1073,7 @@
     {
         "id": "generator",
         "name": "Generator",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -1038,7 +1105,11 @@
                         "name": "Security",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -1094,14 +1165,22 @@
                         "name": "Security",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "vents",
                         "name": "Vents",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -1175,14 +1254,22 @@
                         "name": "Security",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "vents",
                         "name": "Vents",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -1191,6 +1278,7 @@
     {
         "id": "hall_of_fame",
         "name": "Hall of Fame",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/Hall_of_Fame_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -1273,7 +1361,11 @@
                         "name": "Defective wall",
                         "number": 6,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Defective_Wall_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -1479,6 +1571,7 @@
     {
         "id": "heating",
         "name": "Heating",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Heating_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -1566,7 +1659,11 @@
                         "name": "Vents",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -1629,14 +1726,22 @@
                         "name": "Generator",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "workbench",
                         "name": "Workbench",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -1645,6 +1750,7 @@
     {
         "id": "gym",
         "name": "Gym",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/Gym_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -1731,21 +1837,33 @@
                         "name": "Defective wall",
                         "number": 6,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Defective_Wall_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "illumination",
                         "name": "Illumination",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "vents",
                         "name": "Vents",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -1754,6 +1872,7 @@
     {
         "id": "illumination",
         "name": "Illumination",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -1812,7 +1931,11 @@
                         "name": "Generator",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -1875,14 +1998,22 @@
                         "name": "Generator",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "workbench",
                         "name": "Workbench",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -1891,6 +2022,7 @@
     {
         "id": "intelligence_center",
         "name": "Intelligence Center",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Intelligence_Center_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -1925,14 +2057,22 @@
                         "name": "Security",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "vents",
                         "name": "Vents",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -1994,21 +2134,33 @@
                         "name": "Security",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "medstation",
                         "name": "Medstation",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/Medstation_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "nutrition_unit",
                         "name": "Nutrition Unit",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/Nutrition_Unit_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -2081,14 +2233,22 @@
                         "name": "Workbench",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "generator",
                         "name": "Generator",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -2097,6 +2257,7 @@
     {
         "id": "lavatory",
         "name": "Lavatory",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/Lavatory_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -2221,14 +2382,22 @@
                         "name": "Water Collector",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Water_Collector_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "vents",
                         "name": "Vents",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -2280,14 +2449,22 @@
                         "name": "Vents",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "water_collector",
                         "name": "Water Collector",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Water_Collector_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -2296,6 +2473,7 @@
     {
         "id": "library",
         "name": "Library",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/Library_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -2389,7 +2567,11 @@
                         "name": "Rest Space",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/Rest_Space_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -2398,6 +2580,7 @@
     {
         "id": "medstation",
         "name": "Medstation",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/Medstation_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -2536,7 +2719,11 @@
                         "name": "Generator",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -2609,14 +2796,22 @@
                         "name": "Generator",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "lavatory",
                         "name": "Lavatory",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/Lavatory_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -2625,6 +2820,7 @@
     {
         "id": "nutrition_unit",
         "name": "Nutrition Unit",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/Nutrition_Unit_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -2678,7 +2874,11 @@
                         "name": "Generator",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -2734,7 +2934,11 @@
                         "name": "Lavatory",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/Lavatory_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -2797,21 +3001,33 @@
                         "name": "Generator",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "lavatory",
                         "name": "Lavatory",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/Lavatory_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "stash",
                         "name": "Stash",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Stash_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -2820,6 +3036,7 @@
     {
         "id": "rest_space",
         "name": "Rest Space",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/Rest_Space_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -2862,7 +3079,11 @@
                         "name": "Vents",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -2925,14 +3146,22 @@
                         "name": "Generator",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "heating",
                         "name": "Heating",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Heating_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -2995,14 +3224,22 @@
                         "name": "Generator",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "heating",
                         "name": "Heating",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Heating_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -3011,6 +3248,7 @@
     {
         "id": "scav_case",
         "name": "Scav Case",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/Scav_Case_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -3093,7 +3331,11 @@
                         "name": "Intelligence Center",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Intelligence_Center_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -3102,6 +3344,7 @@
     {
         "id": "security",
         "name": "Security",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -3189,7 +3432,11 @@
                         "name": "Illumination",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -3252,7 +3499,11 @@
                         "name": "Illumination",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -3261,6 +3512,7 @@
     {
         "id": "shooting_range",
         "name": "Shooting Range",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Shooting_Range_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -3314,7 +3566,11 @@
                         "name": "Illumination",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -3436,14 +3692,22 @@
                         "name": "Illumination",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "workbench",
                         "name": "Workbench",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -3556,6 +3820,7 @@
     {
         "id": "solar_power",
         "name": "Solar Power",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Solar_power_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -3634,14 +3899,22 @@
                         "name": "Generator",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "workbench",
                         "name": "Workbench",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -3650,6 +3923,7 @@
     {
         "id": "stash",
         "name": "Stash",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Stash_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -3718,7 +3992,11 @@
                         "name": "Vents",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -3788,14 +4066,22 @@
                         "name": "Vents",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "heating",
                         "name": "Heating",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Heating_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -3876,28 +4162,44 @@
                         "name": "Generator",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "workbench",
                         "name": "Workbench",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "heating",
                         "name": "Heating",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Heating_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "intelligence_center",
                         "name": "Intelligence Center",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Intelligence_Center_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -3906,6 +4208,7 @@
     {
         "id": "vents",
         "name": "Vents",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -4042,7 +4345,11 @@
                         "name": "Generator",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -4051,6 +4358,7 @@
     {
         "id": "water_collector",
         "name": "Water Collector",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Water_Collector_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -4104,7 +4412,11 @@
                         "name": "Security",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -4174,7 +4486,11 @@
                         "name": "Workbench",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -4237,14 +4553,22 @@
                         "name": "Generator",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "heating",
                         "name": "Heating",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Heating_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -4253,6 +4577,7 @@
     {
         "id": "weapon_rack",
         "name": "Weapon Rack",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Weapon_Rack_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -4346,14 +4671,22 @@
                         "name": "Illumination",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "stash",
                         "name": "Stash",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Stash_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -4471,21 +4804,33 @@
                         "name": "Shooting Range",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Shooting_Range_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "workbench",
                         "name": "Workbench",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "stash",
                         "name": "Stash",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Stash_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -4592,14 +4937,22 @@
                         "name": "Shooting Range",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Shooting_Range_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "workbench",
                         "name": "Workbench",
                         "number": 3,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -4608,6 +4961,7 @@
     {
         "id": "workbench",
         "name": "Workbench",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -4717,7 +5071,11 @@
                         "name": "Illumination",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             },
@@ -4780,14 +5138,22 @@
                         "name": "Generator",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     },
                     {
                         "id": "stash",
                         "name": "Stash",
                         "number": 2,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Stash_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }
@@ -4796,6 +5162,7 @@
     {
         "id": "christmas_tree",
         "name": "Christmas Tree",
+        "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Christmas_Tree_Portrait.png",
         "level_requirements": [
             {
                 "level": 1,
@@ -4838,7 +5205,11 @@
                         "name": "Generator",
                         "number": 1,
                         "type": "zone",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+                            "width": null,
+                            "height": null
+                        }
                     }
                 ]
             }

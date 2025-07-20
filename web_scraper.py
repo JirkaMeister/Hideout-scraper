@@ -10,6 +10,8 @@ import time
 import json
 import re
 
+zone_imgs = {}
+
 def create_id(name: str):
     # Create a unique ID for the zone based on its name
     return name.lower().replace(' ', '_').replace('\"', '')
@@ -19,14 +21,14 @@ def extract_number(text):
     return int(digits) if digits else None
 
 class HideoutZone:
-    def __init__(self, name):
+    def __init__(self, name, img):
         self.id = create_id(name)
         self.name = name
         self.requirements = []
+        self.get_img(img)
     
     def add_zone_level(self):
         self.requirements.append([])
-
     def add_requirement(self, requirement_li, level):
         try:
             # Adjust level to match the index in requirements list
@@ -40,6 +42,15 @@ class HideoutZone:
             self.requirements[level].append(new_requirement)
         except:
             print(f"Error processing requirement: {requirement_li}", file=sys.stderr)
+    
+    def get_img(self, img: element.Tag):
+        global zone_imgs
+        if img and 'data-src' in img.attrs:
+            formatted_img = re.search(r'(.*\.(png|jpg|jpeg|gif|webp|svg))', img['data-src'], re.IGNORECASE)
+            self.img = formatted_img.group(1) if formatted_img else None
+            zone_imgs[self.id] = self.img if self.img else None
+
+
 
     def print_zone_info(self):
         print(f"Zone ID: {self.id}")
@@ -50,6 +61,13 @@ class HideoutZone:
                 print(f"  Level {level + 1}:")
                 for req in reqs:
                     print(f"    - {req}")
+
+    def handle_zone_requirements(self):
+        for level in self.requirements:
+            for req in level:
+                if req.type == 'zone':
+                    req.get_zone_img()
+
 
     def to_dict(self):
         requirements_dict = []
@@ -63,6 +81,7 @@ class HideoutZone:
         return {
             'id': self.id,
             'name': self.name,
+            'img': self.img if hasattr(self, 'img') else None,
             'level_requirements': requirements_dict
         }
 
@@ -76,7 +95,7 @@ class ZoneRequirement:
         self.type = req_type
         self.link = link
         if req_type == 'item':
-            self.get_img()
+            self.get_item_img()
     
     def get_name(list_item: element.Tag):
         # Name of the requirement is the text of the <a> tag
@@ -113,7 +132,7 @@ class ZoneRequirement:
                 return content['href'] if 'href' in content.attrs else None
         return None
     
-    def get_img(self):
+    def get_item_img(self):
         if self.link:
             url = 'https://escapefromtarkov.fandom.com' + self.link
             response = httpx.get(url)
@@ -146,11 +165,19 @@ class ZoneRequirement:
                     'height': int(height.strip())
                 }
     
+    def get_zone_img(self):
+        global zone_imgs
+        self.img = {
+            'url': zone_imgs.get(self.id, None),
+            'width': None,
+            'height': None
+        }
+
     def __repr__(self):
         if self.type == 'items':
             return f"{self.number}x {self.name}"
         return f"{self.name} {self.number}"
-    
+
     def to_dict(self):
         return {
             'id': self.id,
@@ -165,18 +192,19 @@ def get_zone_tables(url: str):
     response = httpx.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     parent_div = soup.find('div', class_='wds-tabber dealer-tabber')
+    zone_imgs = parent_div.select('ul li img')
     zone_divs = parent_div.find_all('div', class_='wds-tab__content')
     zone_tables = [zone_div.find('table', class_='wikitable') for zone_div in zone_divs]
-    return zone_tables
+    return zip(zone_tables, zone_imgs)
 
-def extract_zone_info(zone_table):
+def extract_zone_info(zone_data):
     zones = []
-    for table in zone_table:
+    for table, img in zone_data:
         # Name of the zone is the first row of the table
         header_row = table.select('tr:first-child th')
         zone_name = header_row[0].contents[0].strip()
 
-        zone = HideoutZone(zone_name)
+        zone = HideoutZone(zone_name, img)
 
         # First table of requirements are in the third row of the table
         requirements_levels = []
@@ -219,13 +247,16 @@ if __name__ == '__main__':
     # Retry up to 3 times in case of an error
     while retries < 3:
         try:
-            zone_tables = get_zone_tables(url)
-            zones = extract_zone_info(zone_tables)
+            zone_data = get_zone_tables(url)
+            zones = extract_zone_info(zone_data)
             break
         except Exception as e:
             retries += 1
             print(f'Error scraping: {e}', file=sys.stderr)
             time.sleep(1)
+
+    for zone in zones:
+        zone.handle_zone_requirements()
 
     with open('hideout_zones.json', 'w') as f:
         json.dump([zone.to_dict() for zone in zones], f, indent=4)
