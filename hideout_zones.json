@@ -108,7 +108,11 @@
                         "name": "VPX Flash Storage Module",
                         "number": 1,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/VPXFlashIcon.png",
+                            "width": 1,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "power_cord",
@@ -268,14 +272,22 @@
                         "name": "Pressure gauge",
                         "number": 10,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Pressure_gauge_icon.png",
+                            "width": 2,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "6-sten-140-m_military_battery",
                         "name": "6-STEN-140-M military battery",
                         "number": 1,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/Mil_Batt_icon.png",
+                            "width": 4,
+                            "height": 2
+                        }
                     },
                     {
                         "id": "solar_power",
@@ -327,7 +339,11 @@
                         "name": "Pressure gauge",
                         "number": 2,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Pressure_gauge_icon.png",
+                            "width": 2,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "radiator_helix",
@@ -980,7 +996,11 @@
                         "name": "Body armor repair kit",
                         "number": 1,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/ArmorRepairKit3.png",
+                            "width": 3,
+                            "height": 2
+                        }
                     },
                     {
                         "id": "cordura_polyamide_fabric",
@@ -2032,14 +2052,22 @@
                         "name": "Factory plan map",
                         "number": 1,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Factory_Map_Icon.png",
+                            "width": 1,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "intelligence_folder",
                         "name": "Intelligence folder",
                         "number": 1,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/FolderWithIntelligence_Icon.png",
+                            "width": 2,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "topographic_survey_map",
@@ -2084,14 +2112,22 @@
                         "name": "Intelligence folder",
                         "number": 3,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/FolderWithIntelligence_Icon.png",
+                            "width": 2,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "secure_flash_drive",
                         "name": "Secure Flash drive",
                         "number": 3,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/Secure_Flash_drive_Icon.png",
+                            "width": 1,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "power_cord",
@@ -2183,21 +2219,33 @@
                         "name": "Military COFDM Wireless Signal Transmitter",
                         "number": 2,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/COFDM_Icon.png",
+                            "width": 2,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "far-forward_gps_signal_amplifier_unit",
                         "name": "Far-forward GPS Signal Amplifier Unit",
                         "number": 1,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/GPSamplifier_icon.png",
+                            "width": 1,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "vpx_flash_storage_module",
                         "name": "VPX Flash Storage Module",
                         "number": 2,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/VPXFlashIcon.png",
+                            "width": 1,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "military_flash_drive",
@@ -2431,7 +2479,11 @@
                         "name": "Pressure gauge",
                         "number": 2,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Pressure_gauge_icon.png",
+                            "width": 2,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "toolset",
@@ -2768,7 +2820,11 @@
                         "name": "LEDX Skin Transilluminator",
                         "number": 1,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/TransilluminatorIcon.png",
+                            "width": 1,
+                            "height": 1
+                        }
                     },
                     {
                         "id": "therapist",
@@ -3280,7 +3336,11 @@
                         "name": "Bottle of Fierce Hatchling moonshine",
                         "number": 3,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/Fiece_hatchling_moonshine_icon.png",
+                            "width": 1,
+                            "height": 2
+                        }
                     },
                     {
                         "id": "roler_submariner_gold_wrist_watch",
@@ -3841,7 +3901,11 @@
                         "name": "Phased array element",
                         "number": 4,
                         "type": "item",
-                        "img": null
+                        "img": {
+                            "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Phased-Array-Element-icon.png",
+                            "width": 2,
+                            "height": 2
+                        }
                     },
                     {
                         "id": "advanced_current_converter",

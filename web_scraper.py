@@ -11,6 +11,7 @@ import json
 import re
 
 zone_imgs = {}
+missing_img_count = 0
 
 def create_id(name: str):
     # Create a unique ID for the zone based on its name
@@ -133,11 +134,15 @@ class ZoneRequirement:
         return None
     
     def get_item_img(self):
+        print("-----------------------------------------------------------")
+        print(f"Fetching image for item: {self.name} ({self.id})")
+        print(f"Item link: {self.link}")
         if self.link:
             url = 'https://escapefromtarkov.fandom.com' + self.link
             response = httpx.get(url)
             soup = BeautifulSoup(response.content, 'html.parser')
             img = soup.select('td.va-infobox-icon a img')
+            print(f"Image found: {img}")
 
             # Extract item size from the infobox
             general_data = soup.select('td.va-infobox-cont table.va-infobox-group tr:not(.va-infobox-spacing)')
@@ -148,6 +153,7 @@ class ZoneRequirement:
                     break
 
             width, height = size.strip().split('x')
+            print(f"Extracted size: {width}x{height}")
 
             # Special case for items that have width and height inverted on the wiki
             if self.id in inverted_size:
@@ -156,7 +162,18 @@ class ZoneRequirement:
 
             # Remove the last part of the URL
             if img and 'src' in img[0].attrs:
+                print(f"Image URL: {img[0]['src']}")
                 formatted_img = re.search(r'(.*\.(png|jpg|jpeg|gif|webp|svg))', img[0]['src'], re.IGNORECASE)
+                if not(formatted_img):
+                    formatted_img = re.search(r'(.*\.(png|jpg|jpeg|gif|webp|svg))', img[0]['data-src'], re.IGNORECASE)
+                    if not(formatted_img):
+                        global missing_img_count
+                        missing_img_count += 1
+                
+            
+            print(f"Formatted image URL: {formatted_img.group(1) if formatted_img else 'None'}")
+
+
 
             if formatted_img:
                 self.img = {
@@ -249,6 +266,7 @@ if __name__ == '__main__':
         try:
             zone_data = get_zone_tables(url)
             zones = extract_zone_info(zone_data)
+            print(f"Missing images count: {missing_img_count}")
             break
         except Exception as e:
             retries += 1
