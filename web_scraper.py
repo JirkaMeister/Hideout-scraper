@@ -13,6 +13,26 @@ import re
 zone_imgs = {}
 missing_img_count = 0
 
+# defective_wall: 1 - 6
+# gear_rack: 1 - 3
+# gym: 1
+# hall_of_fame: 1 - 3
+# illumination: 2
+# library: 1
+# weapon_rack: 1 - 3
+# shooting_range: 2 - 3
+
+hardcore_exceptions = {
+    'illumination': [2],
+    'library': [1],
+    'defective_wall': [1, 2, 3, 4, 5, 6],
+    'gear_rack': [1, 2, 3],
+    'gym': [1],
+    'hall_of_fame': [1, 2, 3],
+    'weapon_rack': [1, 2, 3],
+    'shooting_range': [2, 3]
+}
+
 def create_id(name: str):
     # Create a unique ID for the zone based on its name
     return name.lower().replace(' ', '_').replace('\"', '')
@@ -27,6 +47,9 @@ class HideoutZone:
         self.name = name
         self.requirements = []
         self.get_img(img)
+        self.hardcore_exception = []
+        if self.id in hardcore_exceptions:
+            self.hardcore_exception = hardcore_exceptions[self.id]
     
     def add_zone_level(self):
         self.requirements.append([])
@@ -83,6 +106,7 @@ class HideoutZone:
             'id': self.id,
             'name': self.name,
             'img': self.img if hasattr(self, 'img') else None,
+            'hardcore_exception': self.hardcore_exception,
             'level_requirements': requirements_dict
         }
 

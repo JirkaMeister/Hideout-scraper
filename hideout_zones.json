@@ -3,6 +3,7 @@
         "id": "air_filtering_unit",
         "name": "Air Filtering Unit",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Air_Filtering_Unit_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -88,6 +89,7 @@
         "id": "bitcoin_farm",
         "name": "Bitcoin Farm",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Bitcoin_Farm_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -319,6 +321,7 @@
         "id": "booze_generator",
         "name": "Booze Generator",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/Booze_Generator_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -430,6 +433,7 @@
         "id": "cultist_circle",
         "name": "Cultist Circle",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Cultist_Circle_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -519,6 +523,14 @@
         "id": "defective_wall",
         "name": "Defective Wall",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Defective_Wall_Portrait.png",
+        "hardcore_exception": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
         "level_requirements": [
             {
                 "level": 1,
@@ -743,6 +755,11 @@
         "id": "gear_rack",
         "name": "Gear Rack",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/Gear_Rack_Portrait.png",
+        "hardcore_exception": [
+            1,
+            2,
+            3
+        ],
         "level_requirements": [
             {
                 "level": 1,
@@ -1094,6 +1111,7 @@
         "id": "generator",
         "name": "Generator",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Generator_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -1299,6 +1317,11 @@
         "id": "hall_of_fame",
         "name": "Hall of Fame",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/Hall_of_Fame_Portrait.png",
+        "hardcore_exception": [
+            1,
+            2,
+            3
+        ],
         "level_requirements": [
             {
                 "level": 1,
@@ -1592,6 +1615,7 @@
         "id": "heating",
         "name": "Heating",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Heating_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -1771,6 +1795,9 @@
         "id": "gym",
         "name": "Gym",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/Gym_Portrait.png",
+        "hardcore_exception": [
+            1
+        ],
         "level_requirements": [
             {
                 "level": 1,
@@ -1893,6 +1920,9 @@
         "id": "illumination",
         "name": "Illumination",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/Illumination_Portrait.png",
+        "hardcore_exception": [
+            2
+        ],
         "level_requirements": [
             {
                 "level": 1,
@@ -2043,6 +2073,7 @@
         "id": "intelligence_center",
         "name": "Intelligence Center",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Intelligence_Center_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -2306,6 +2337,7 @@
         "id": "lavatory",
         "name": "Lavatory",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/Lavatory_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -2526,6 +2558,9 @@
         "id": "library",
         "name": "Library",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/Library_Portrait.png",
+        "hardcore_exception": [
+            1
+        ],
         "level_requirements": [
             {
                 "level": 1,
@@ -2633,6 +2668,7 @@
         "id": "medstation",
         "name": "Medstation",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/Medstation_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -2877,6 +2913,7 @@
         "id": "nutrition_unit",
         "name": "Nutrition Unit",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/Nutrition_Unit_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -3093,6 +3130,7 @@
         "id": "rest_space",
         "name": "Rest Space",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/Rest_Space_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -3305,6 +3343,7 @@
         "id": "scav_case",
         "name": "Scav Case",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/Scav_Case_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -3405,6 +3444,7 @@
         "id": "security",
         "name": "Security",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Security_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -3573,6 +3613,10 @@
         "id": "shooting_range",
         "name": "Shooting Range",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Shooting_Range_Portrait.png",
+        "hardcore_exception": [
+            2,
+            3
+        ],
         "level_requirements": [
             {
                 "level": 1,
@@ -3881,6 +3925,7 @@
         "id": "solar_power",
         "name": "Solar Power",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Solar_power_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -3988,6 +4033,7 @@
         "id": "stash",
         "name": "Stash",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Stash_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -4273,6 +4319,7 @@
         "id": "vents",
         "name": "Vents",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Vents_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -4423,6 +4470,7 @@
         "id": "water_collector",
         "name": "Water Collector",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Water_Collector_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -4642,6 +4690,11 @@
         "id": "weapon_rack",
         "name": "Weapon Rack",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Weapon_Rack_Portrait.png",
+        "hardcore_exception": [
+            1,
+            2,
+            3
+        ],
         "level_requirements": [
             {
                 "level": 1,
@@ -5026,6 +5079,7 @@
         "id": "workbench",
         "name": "Workbench",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Workbench_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
@@ -5227,6 +5281,7 @@
         "id": "christmas_tree",
         "name": "Christmas Tree",
         "img": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Christmas_Tree_Portrait.png",
+        "hardcore_exception": [],
         "level_requirements": [
             {
                 "level": 1,
